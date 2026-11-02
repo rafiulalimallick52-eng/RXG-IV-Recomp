@@ -1,7 +1,7 @@
 # RXG-IV-Recomp
 Bringing the GTA IV Xbox 360 experience to Android.
 
-RXG IV Recomp is an Android-focused project based on XHYN IV Recomp, aiming to deliver a smoother and more enjoyable Grand Theft Auto IV experience inspired by the original Xbox 360 version.
+RXG IV Recomp is an Android-focused project based on XHYN IV Recomp https://github.com/XHYN-PH/XHYN-IV-recomp, aiming to deliver a smoother and more enjoyable Grand Theft Auto IV experience inspired by the original Xbox 360 version.
 
 Main Goals
 
